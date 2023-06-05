@@ -1,0 +1,17 @@
+body {
+background: rgba(139, 222, 204, 0.927);
+position: center;
+padding: 150px;}
+
+.container {
+max-width: 200px;
+margin: 0 auto;
+padding: 60px;
+background-color: #3399a0a3;
+border-radius: 10px;}
+
+h1 {
+text-align: center;
+color:#201976;
+}
+
